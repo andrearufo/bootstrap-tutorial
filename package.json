@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.0.0-alpha2",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0"
+  }
+}
